@@ -1,6 +1,10 @@
 #exclude: ["README.md"]
 
 remote_theme: just-the-docs/just-the-docs
+
+# Determines whether auxillary links open a new tab when clicked
+aux_links_new_tab: false
+
 #logo: 
 #color_scheme: cog_website
 
